@@ -1,0 +1,15 @@
+crewai 
+langchain_community
+langchain_huggingface
+PyPDF2
+streamlit
+groq
+gspread
+python-dotenv
+google-api-python-client 
+google-auth-httplib2 
+google-auth-oauthlib 
+pandas 
+tiktoken
+langchain-groq 
+langchain-openai
